@@ -7,7 +7,7 @@
 ## Aim
 
 To study and measure the characteristics of an H-plane tee.
-
+  
 ## Apparatus Used
 
 Klystron power supply, klystron mount with tube, isolator, variable attenuator, frequency meter, slotted line section, H-plane tee, detector mount / crystal detector, matched terminations, VSWR meter, waveguide stands.
@@ -53,7 +53,9 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 52 AM (1)" src="https://github.com/user-attachments/assets/22827131-644d-4b64-b71b-015ad9c39b41" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 52 AM" src="https://github.com/user-attachments/assets/8dd50d5a-2205-4255-8c7d-dfe4dbffe92a" />
 
 ---
 
